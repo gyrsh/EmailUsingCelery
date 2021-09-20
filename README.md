@@ -53,6 +53,7 @@ $ flower -A app.client --port=5555
 ```
 
 7. Navigate to http://localhost:5000 and schedule an email with a message
+
 <a href="https://github.com/gyrsh"><img src="https://github.com/gyrsh/EmailUsingCelery/blob/main/Screenshot%20(52).png" ></a>
 **Home Page**
 
@@ -64,7 +65,6 @@ $ flower -A app.client --port=5555
 
 <a href="https://github.com/gyrsh"><img src="https://github.com/gyrsh/EmailUsingCelery/blob/main/Screenshot%20(54).png" ></a>
 **When Task is Completed**
-
 
 9. Check the receipient email inbox for the scheduled message after the time has ellapsed
 
