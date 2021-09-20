@@ -69,6 +69,6 @@ $ flower -A app.client --port=5555
 9. Check the receipient email inbox for the scheduled message after the time has ellapsed
 
 ## Updates To be Done 
-1. Unittesting
-2. Dockerize the Project
-3. Modularity of Project
+1. Unittesting.
+2. Dockerize the Project.
+3. Modularity of Project as More Tasks will be added.
