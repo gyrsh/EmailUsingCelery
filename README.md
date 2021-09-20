@@ -19,7 +19,7 @@ Kindly ensure you have the following installed on your machine:
 
 1. Clone the repository
 ```
-$ git clone https://github.com/ro6ley/flask-celery-demo.git
+$ git clone https://github.com/gyrsh/EmailUsingCelery.git
 ```
 
 2. Check into the cloned repository
@@ -54,20 +54,16 @@ $ flower -A app.client --port=5555
 
 7. Navigate to http://localhost:5000 and schedule an email with a message
 <a href="https://github.com/gyrsh"><img src="https://github.com/gyrsh/EmailUsingCelery/blob/main/Screenshot%20(52).png" ></a>
+**Home Page**
 
 8. Navigate to http://localhost:5555 to view the workers and scheduled messages under `Tasks` section
 <a href="https://github.com/gyrsh"><img src="https://github.com/gyrsh/EmailUsingCelery/blob/main/Screenshot%20(53).png" ></a>
+**When Task is in Queue**
 <a href="https://github.com/gyrsh"><img src="https://github.com/gyrsh/EmailUsingCelery/blob/main/Screenshot%20(54).png" ></a>
+**When Task is Completed**
 
 
 9. Check the receipient email inbox for the scheduled message after the time has ellapsed
-
-
-## Contribution
-
-Please feel free to raise issues using this [template](./.github/ISSUE_TEMPLATE.md) and I'll get back to you.
-
-You can also fork the repository, make changes and submit a Pull Request using this [template](./.github/PULL_REQUEST_TEMPLATE.md).
 
 ## Updates To be Done 
 1. Unittesting
