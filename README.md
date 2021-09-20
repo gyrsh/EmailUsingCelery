@@ -24,7 +24,7 @@ $ git clone https://github.com/gyrsh/EmailUsingCelery.git
 
 2. Check into the cloned repository
 ```
-$ cd flask-celery-demo
+$ cd EmailUsingCelery
 ```
 
 3. If you are using Pipenv, setup the virtual environment and start it as follows:
