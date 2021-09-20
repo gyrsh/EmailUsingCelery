@@ -50,16 +50,13 @@ $ flower -A app.client --port=5555
 ```
 
 7. Navigate to http://localhost:5000 and schedule an email with a message
-'''
 <a href="https://github.com/gyrsh"><img src="https://github.com/gyrsh/EmailUsingCelery/blob/main/Screenshot%20(52).png" ></a>-->
-'''
+
 
 8. Navigate to http://localhost:5555 to view the workers and scheduled messages under `Tasks` section
-'''
 <a href="https://github.com/gyrsh"><img src="https://github.com/gyrsh/EmailUsingCelery/blob/main/Screenshot%20(53).png" ></a>-->
-
 <a href="https://github.com/gyrsh"><img src="https://github.com/gyrsh/EmailUsingCelery/blob/main/Screenshot%20(54).png" ></a>-->
-'''
+
 
 9. Check the receipient email inbox for the scheduled message after the time has ellapsed
 
