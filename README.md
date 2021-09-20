@@ -2,6 +2,9 @@
 
 ## Getting Started
 
+The project is created to send E-mails using Flask-Mail, Redis, Celery, Flower & Flask.
+But the main purpose of this project is understand/work with asynchronous task queue system based on distributed message passing to distribute workload across machines or threads.
+
 ### Prerequisites
 
 Kindly ensure you have the following installed on your machine:
@@ -65,3 +68,8 @@ $ flower -A app.client --port=5555
 Please feel free to raise issues using this [template](./.github/ISSUE_TEMPLATE.md) and I'll get back to you.
 
 You can also fork the repository, make changes and submit a Pull Request using this [template](./.github/PULL_REQUEST_TEMPLATE.md).
+
+## Updates To be Done 
+1. Unittesting
+2. Dockerize the Project
+3. Modularity of Project
