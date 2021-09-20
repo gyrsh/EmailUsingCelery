@@ -57,8 +57,11 @@ $ flower -A app.client --port=5555
 **Home Page**
 
 8. Navigate to http://localhost:5555 to view the workers and scheduled messages under `Tasks` section
+
 <a href="https://github.com/gyrsh"><img src="https://github.com/gyrsh/EmailUsingCelery/blob/main/Screenshot%20(53).png" ></a>
 **When Task is in Queue**
+
+
 <a href="https://github.com/gyrsh"><img src="https://github.com/gyrsh/EmailUsingCelery/blob/main/Screenshot%20(54).png" ></a>
 **When Task is Completed**
 
