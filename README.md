@@ -2,8 +2,8 @@
 
 ## Getting Started
 
-The project is created to send E-mails using Flask-Mail, Redis, Celery, Flower & Flask.
-But the main purpose of this project is understand/work with asynchronous task queue system based on distributed message passing to distribute workload across machines or threads.
+The project is created to send E-mails in Background while Frontend redirect to new Page (simultaneously) using Flask-Mail, Redis, Celery, Flower & Flask.
+But the main purpose of this project is to understand/work with asynchronous task queue system based on distributed message passing to distribute workload across machines or threads.
 
 ### Prerequisites
 
